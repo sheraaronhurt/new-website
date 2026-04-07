@@ -185,7 +185,11 @@ We have compiled several [email templates]({{< param handbook_url >}}/resources/
 
 {{< accordion title="Can I charge Learners a fee to attend a workshop I host?" >}}
 
-Yes, you can charge learners a fee to attend a workshop. Often a nominal fee of $20 reduces the number of no-shows. Many workshops have a waitlist, so it is best to be able to offer open seats due to no-shows to people on the waitlist instead of having an empty seat.
+Yes, you can charge learners a fee to attend a workshop.
+
+As a self-organised workshop (SOW), hosts have flexibility in determining whether to charge a fee and how much to charge. The Carpentries provides guidance, but does not set or enforce specific pricing requirements. We encourage hosts to charge what is appropriate for their context.
+
+Many hosts choose to charge a modest fee (for example, approximately $20), as this can help reduce no-shows and increase learner commitment. This is particularly helpful for workshops with waitlists, where maximizing attendance ensures that available seats are used effectively.
 {{< /accordion >}}
 
 {{< accordion title="Can I pay Instructors a stipend?" >}}
